@@ -287,6 +287,12 @@ h2.title {
 
 @media screen and (max-width: 576px) {
 
+    .header,
+    .top-section,
+    .course-section {
+        padding: 0 20px;
+    }
+
     /* Header Responsive */
 
     .header .header-container nav ul li {
